@@ -2,5 +2,16 @@ dfkgjdkgkdf
 fgdflkgdfjg
 fgldkdfsdfaaaaaaaaaaaaa
 45648
+<<<<<<< HEAD
 1020jiejuetijiao
 666
+=======
+<<<<<<< HEAD
+2020
+asdfghjkl
+45648
+2020zhunbeitijiao
+>>>>>>> c1cd08d0e33b94376feaa28920a73e173ca4e352
+1020dezuizhongtijiao
+python1314
+git svn jenkins
